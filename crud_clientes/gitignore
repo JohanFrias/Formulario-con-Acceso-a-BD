@@ -1,0 +1,9 @@
+# Archivos locales o sensibles
+.env
+config.local.php
+conexion.local.php
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
